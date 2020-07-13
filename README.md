@@ -12,6 +12,7 @@
 
 ### Python
 - [Python Fundamentals](https://github.com/jrbella/python_open_work)
+- [Audio Player](https://github.com/jrbella/pyAudioPlayer)
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
