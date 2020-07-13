@@ -14,6 +14,9 @@
 - [Python Fundamentals](https://github.com/jrbella/python_open_work)
 - [Audio Player](https://github.com/jrbella/pyAudioPlayer)
 - [Computer Science I](https://github.com/jrbella/computer_science_icstars)
+
+### C++
+- [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
