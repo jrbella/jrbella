@@ -6,6 +6,12 @@
 - 🔭 I’m currently working on Python Applications
 
 ![alt text](https://github.com/jrbella/jrbella/blob/master/rick_and_morty_fav.png)
+
+
+## To prospective employers relevant repositories
+
+#### Python
+- [Python Fundamentals](https://github.com/jrbella/python_open_work)
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
