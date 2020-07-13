@@ -8,7 +8,7 @@
 ![alt text](https://github.com/jrbella/jrbella/blob/master/rick_and_morty_fav.png)
 
 
-## To prospective employers relevant repo's
+## Relevant
 
 ### Python
 - [Python Fundamentals](https://github.com/jrbella/python_open_work)
