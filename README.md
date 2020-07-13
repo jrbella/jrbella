@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello fellow geeks 👋
+
+
+- 🌱 I’m currently learning Python and Machine Learning
+
+- 🔭 I’m currently working on Python Applications
+
 
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
