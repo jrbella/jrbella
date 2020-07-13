@@ -14,6 +14,7 @@
 - [Python Fundamentals](https://github.com/jrbella/python_open_work)
 - [Audio Player](https://github.com/jrbella/pyAudioPlayer)
 - [Computer Science I](https://github.com/jrbella/computer_science_icstars)
+- [Python Data Analysis with pandas](https://github.com/jrbella/python_open_work/tree/master/pandas)
 
 ### C++
 - [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
