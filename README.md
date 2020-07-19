@@ -20,7 +20,7 @@
 - [Python Data Analysis with pandas](https://github.com/jrbella/python_open_work/tree/master/pandas)
 
 #### Applications
-- [Volcano and population Web Map](https://github.com/jrbella/python_open_work/tree/master/volcano_and_population_web_map)
+- [Volcano and Population Web Map](https://github.com/jrbella/python_open_work/tree/master/volcano_and_population_web_map)
 
 ### C++
 - [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
