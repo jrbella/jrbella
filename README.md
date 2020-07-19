@@ -8,7 +8,7 @@
 ![alt text](https://github.com/jrbella/jrbella/blob/master/rick_and_morty_fav.png)
 
 
-## Relevant Repo's for Employers
+## Relevant Repo's 
 
 
 
