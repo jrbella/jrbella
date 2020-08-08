@@ -24,11 +24,13 @@
 
 ### C++
 - [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
-<!--
-**jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### PowerShell
 - [Linked List](https://github.com/jrbella/PowerShell/blob/master/node.ps1)
+
+<!--
+**jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Contact me:
 
