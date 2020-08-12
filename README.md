@@ -19,6 +19,7 @@
 - [Computer Science I](https://github.com/jrbella/computer_science_icstars)
 - [Python Data Analysis with pandas](https://github.com/jrbella/python_open_work/tree/master/pandas)
 - [Nodes, Stacks, Queues, Linked Lists](https://github.com/jrbella/python_open_work/tree/master/Nodes)
+- [Hash Maps](https://github.com/jrbella/python_open_work/tree/master/hash_maps)
 
 #### Applications
 - [Volcano and Population Web Map](https://github.com/jrbella/python_open_work/tree/master/volcano_and_population_web_map)
