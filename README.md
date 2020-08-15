@@ -25,6 +25,7 @@
 - [Volcano and Population Web Map](https://github.com/jrbella/python_open_work/tree/master/volcano_and_population_web_map)
 - [Flower Blossoms](https://github.com/jrbella/python_open_work/tree/master/flower_blossom)
 - [Towers of Hanoi](https://github.com/jrbella/python_open_work/tree/master/towers_of_hanoi)
+- [Escape From the Wilderness](https://github.com/jrbella/python_open_work/tree/master/escape_from_the_wilderness)
 
 ### C++
 - [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
