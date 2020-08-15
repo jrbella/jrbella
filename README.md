@@ -24,6 +24,7 @@
 #### Applications
 - [Volcano and Population Web Map](https://github.com/jrbella/python_open_work/tree/master/volcano_and_population_web_map)
 - [Flower Blossoms](https://github.com/jrbella/python_open_work/tree/master/flower_blossom)
+- [Towers of Hanoi](https://github.com/jrbella/python_open_work/tree/master/towers_of_hanoi)
 
 ### C++
 - [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
