@@ -33,6 +33,9 @@
 ### PowerShell
 - [Nodes, Stacks, Queues, Linked Lists](https://github.com/jrbella/PowerShell/blob/master/node.ps1)
 
+### Java
+- [Java Fundamentals](https://github.com/jrbella/Java)
+
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
