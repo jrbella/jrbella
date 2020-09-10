@@ -39,6 +39,7 @@
 ## Go Programming
 - [Gopher](https://github.com/jrbella/open_go_lang_workspace/tree/master/Gopher)
 - [Mischief](https://github.com/jrbella/open_go_lang_workspace/tree/master/CommonMischief)
+- [Heist](https://github.com/jrbella/open_go_lang_workspace/tree/master/Heist)
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
