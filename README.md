@@ -37,8 +37,8 @@
 - [Java Fundamentals](https://github.com/jrbella/Java)
 
 ## Go Programming
-- [Go Lang](https://github.com/jrbella/open_go_lang_workspace)
-
+- [Gopher](https://github.com/jrbella/open_go_lang_workspace/tree/master/Gopher)
+- [Mischief](https://github.com/jrbella/open_go_lang_workspace/tree/master/CommonMischief)
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
