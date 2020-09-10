@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Python and Machine Learning
 
-- 🔭 I’m currently working on Python Applications
+- 🔭 I’m currently working on the Go Programming Language
 
 ![alt text](https://github.com/jrbella/jrbella/blob/master/rick_and_morty_fav.png)
 
