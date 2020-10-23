@@ -1,9 +1,9 @@
 ### Hello fellow geeks 👋
 
 
-- 🌱 I’m currently learning Python and Machine Learning
+- 🌱 I’m currently learning Java and VRA/VRO
 
-- 🔭 I’m currently working on the Go Programming Language
+- 🔭 I’m currently working on Java Projects
 
 ![alt text](https://github.com/jrbella/jrbella/blob/master/rick_and_morty_fav.png)
 
