@@ -27,6 +27,11 @@
 - [Towers of Hanoi](https://github.com/jrbella/python_open_work/tree/master/towers_of_hanoi)
 - [Escape From the Wilderness](https://github.com/jrbella/python_open_work/tree/master/escape_from_the_wilderness)
 
+### Machine Learning
+- [Classifying Iris Species](https://github.com/jrbella/Project-Chillstep/tree/main/Tooling%20Basics)
+
+### Tiny Projects
+
 ### C++
 - [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
 
