@@ -31,7 +31,7 @@
 - [Classifying Iris Species](https://github.com/jrbella/Project-Chillstep/tree/main/Tooling%20Basics)
 
 ### Tiny Projects
-
+- [01_hello](https://github.com/jrbella/TinyProjects/tree/main/01_hello)
 ### C++
 - [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
 
