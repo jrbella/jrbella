@@ -1,9 +1,9 @@
 ### Hello fellow geeks 👋
 
 
-- 🌱 I’m currently learning Java and VRA/VRO
+- 🌱 I’m currently learning Full Stack Development
 
-- 🔭 I’m currently working on Java Projects
+- 🔭 I’m currently working on Full Stack Applications
 
 ![alt text](https://github.com/jrbella/jrbella/blob/master/rick_and_morty_fav.png)
 
@@ -30,8 +30,6 @@
 ### Machine Learning
 - [Classifying Iris Species](https://github.com/jrbella/Project-Chillstep/tree/main/Tooling%20Basics)
 
-### Tiny Projects
-- [01_hello](https://github.com/jrbella/TinyProjects/tree/main/01_hello)
 ### C++
 - [C++ Intro](https://github.com/jrbella/Codecademy_c_plus_plus)
 
@@ -45,6 +43,10 @@
 - [Gopher](https://github.com/jrbella/open_go_lang_workspace/tree/master/Gopher)
 - [Mischief](https://github.com/jrbella/open_go_lang_workspace/tree/master/CommonMischief)
 - [Heist](https://github.com/jrbella/open_go_lang_workspace/tree/master/Heist)
+
+## Full Stack Development
+- [JavaScript Objects](https://github.com/jrbella/FullStack-Portfolio/blob/master/Projects)
+- 
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
