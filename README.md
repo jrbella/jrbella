@@ -46,7 +46,7 @@
 
 ## Full Stack Development
 - [JavaScript Objects](https://github.com/jrbella/FullStack-Portfolio/blob/master/Projects)
-- 
+
 <!--
 **jrbella/jrbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
