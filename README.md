@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Full Stack Development
 
-- 🔭 I’m currently working on Full Stack Applications
+- 🔭 I’m currently working on building my Full Stack Portfolio
 
 ![alt text](https://github.com/jrbella/jrbella/blob/master/rick_and_morty_fav.png)
 
