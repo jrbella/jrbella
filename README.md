@@ -20,6 +20,7 @@
 - [Python Data Analysis with pandas](https://github.com/jrbella/python_open_work/tree/master/pandas)
 - [Nodes, Stacks, Queues, Linked Lists, Heaps](https://github.com/jrbella/python_open_work/tree/master/Nodes)
 - [Hash Maps](https://github.com/jrbella/python_open_work/tree/master/hash_maps)
+- [Linear Data Projects](https://github.com/jrbella/linear_data_projects)
 
 #### Applications
 - [Volcano and Population Web Map](https://github.com/jrbella/python_open_work/tree/master/volcano_and_population_web_map)
